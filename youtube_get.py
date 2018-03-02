@@ -84,6 +84,8 @@ def fill_out_library():
         print("-----------New Entry---------------------")
 
         get_criteria_song(search_criteria)
+
+
 if sys.argv[1] == "-s":
     #this goes from index 2 all the way to the end
     #slicing is pretty cool huh
