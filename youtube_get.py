@@ -90,4 +90,4 @@ if sys.argv[1] == "-s":
     rest = " ".join(sys.argv[2:])
     search_download(rest)
 
-#fill_out_library()
+fill_out_library()
