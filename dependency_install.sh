@@ -2,7 +2,6 @@
 info=$(uname)
 if [ $info='Darwin' ];
 then
-  
   easy_install pip
   pip install beautifulsoup4
   pip install pafy
